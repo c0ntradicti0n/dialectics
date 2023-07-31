@@ -1,1 +1,2 @@
-Just-Unjust
+
+The dialectical antonym here is the Unjust, the contradiction and violation of the principle of justice. It amplifies the interplay between right and wrong by exemplifying situations where rights are violated or obligations neglected. The unjust highlights the necessity of justice, bringing attention to the need for a balance between individual rights and collective welfare.
