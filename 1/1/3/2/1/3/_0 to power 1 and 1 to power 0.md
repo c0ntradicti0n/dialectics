@@ -1,1 +1,0 @@
-0 to power 1 and 1 to power 0"
