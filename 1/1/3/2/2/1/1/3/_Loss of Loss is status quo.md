@@ -1,1 +1,0 @@
-If we want to add a number, we can also substract the negative value of that number.
