@@ -1,1 +1,3 @@
-Truth-Falsehood
+
+
+Reductio ad absurdum is the inversive dialectical antonym in this dialectical unit. It functions as a method of proving the falsity of a proposition by assuming its truth and then deriving an absurd or self-contradictory result from it. It underscores the dialectical tension between a proposition and an argument by pushing their antithesis to an extreme, thereby revealing the contradiction inherent in the proposition. This technique emphasizes the self-negating nature of a false proposition and reorients the logical progression towards truth. It therefore represents the negative, self-sublating movement within the dialectical process of logical reasoning.
