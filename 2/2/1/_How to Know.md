@@ -1,1 +1,2 @@
-Complexity-Simplicity
+
+The question, 'How to Know?' foregrounds an inversive dialectical antonym within the discourse. It reinforces the intrinsic connection between logic and the continual process of understanding. 'How to Know?', is not a mere question of methodology, rather it's a dialectical injunction that encourages us to explore the tension between the subjective knowing (thesis) and the objective reality (antithesis). Such dialectical unfolding requires logic to conciliate them, birthing a higher form of epistemic engagement (synthesis). Thus, ‘How to Know?’ urges us not merely towards the accumulation of facts, but towards the illumination of reality through the dynamic and paradox-riddled interface of logic and cognition.
