@@ -1,4 +1,4 @@
 
-The vanishing-of-vanishing is a concept that arises from the dialectical relationship between things and properties. As properties define and distinguish things, there is a constant interplay between the existence of properties and the disappearance of their absence. When a property is identified or defined, its absence vanishes, giving birth to a new state of existence. This vanishing-of-vanishing captures the dynamic nature of objectivity, as properties continually emerge and disappear, shaping our understanding of the world.
 
-#
+The vanishing-of-vanishing refers to the self-sublation or negation of the negation that occurs within the synthesis of becoming. It signifies the resolution of the conflict between existence and nothingness, resulting in a new and higher level of understanding. The vanishing-of-vanishing represents the inherent nature of becoming, where the transient moments of existence and non-existence vanish into each other, giving rise to a holistic perspective that encompasses both.
+
