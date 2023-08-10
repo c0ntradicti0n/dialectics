@@ -1,1 +1,0 @@
-"Signifier-Signified"
