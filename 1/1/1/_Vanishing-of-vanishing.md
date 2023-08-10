@@ -1,4 +1,4 @@
 
-The concept of the "vanishing-of-vanishing" refers to the dialectical movement within ontology. It captures the idea that every entity or concept contains within it the seeds of its own negation. As something emerges into being, it simultaneously begins to vanish, leading to a constant process of becoming and ceasing to be. The "vanishing-of-vanishing" represents the dynamic nature of existence, where things are in a state of constant flux and transformation.
+The vanishing-of-vanishing is a concept that arises from the dialectical relationship between things and properties. As properties define and distinguish things, there is a constant interplay between the existence of properties and the disappearance of their absence. When a property is identified or defined, its absence vanishes, giving birth to a new state of existence. This vanishing-of-vanishing captures the dynamic nature of objectivity, as properties continually emerge and disappear, shaping our understanding of the world.
 
-###
+#
