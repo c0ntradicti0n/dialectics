@@ -1,1 +1,2 @@
-"Energy-Matter"
+
+Energy and matter, once seen as distinct entities in classical physics, become deeply intertwined in both quantum mechanics and relativity. Quantum mechanics introduces the concept of wave-particle duality, where entities like photons possess both particle-like and wave-like characteristics. In relativity, the conversion between energy and matter becomes evident. This antinomic mutual relation between energy and matter highlights a profound realization—what we once viewed as separate, opposing entities are in fact different manifestations of the same underlying reality.
