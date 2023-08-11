@@ -1,3 +1,4 @@
 
 The tension between things and their properties can be conceptualized through the lens of intrinsic and extrinsic qualities. While intrinsic properties define the inherent nature of things, extrinsic properties arise based on the relationship between things, their environment, or their contextual significance.
 
+The antinomic mutual relation of Intrinsic-Extrinsic unravels the inherent tension between the innate, internal attributes of an entity and the external forces or attributes that act upon or relate to it. This dialectic emphasizes the constant interplay between an entity's inherent nature and the outer influences that may shape, direct, or even distort that nature. Recognizing this dynamic interrelation is crucial, as it fosters a comprehensive understanding of entities in their full context, encompassing both their inner essence and their relation to the larger world.
