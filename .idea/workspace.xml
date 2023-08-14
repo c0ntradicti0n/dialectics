@@ -1,7 +1,567 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09dea32f-b41b-4681-a453-229896747b96" name="Changes" comment="" />
+    <list default="true" id="09dea32f-b41b-4681-a453-229896747b96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2/2/.Values.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/1/3/.Technics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/1/3/1/.Computers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/1/3/1/1/.Hardware.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/1/3/1/2/.Software.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/1/3/1/3/.Embedded.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/1/3/2/.Hacking.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/.Necessity.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/.Truth.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/1/.Logical Analysis.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/1/.Logical Analysis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/1/1/.Inference Types.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/1/1/.Inference Types.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/1/1/1/.Inductive.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/1/1/1/.Inductive.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/1/1/2/.Deductive.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/1/1/2/.Deductive.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/1/1/3/.Abductive.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/1/1/3/.Abductive.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/1/1/_General-Specific.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/1/1/_General-Specific.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/1/_Bias-Neutral.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/1/_Bias-Neutral.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/2/.Scientific Inquiry.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/2/.Scientific Inquiry.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/2/1/.Scientific Method.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/2/1/.Scientific Method.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/2/1/1/.Observation.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/2/1/1/.Observation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/2/1/2/.Test.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/2/1/2/.Test.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/2/1/3/.Interpretation.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/2/1/3/.Interpretation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/2/1/_Doubt-Certainty.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/2/1/_Doubt-Certainty.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/2/2/.Epistemology.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/2/2/.Epistemology.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/2/3/.Metaphysics.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/2/3/.Metaphysics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/2/_Hypothesis-Theory.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/2/_Hypothesis-Theory.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/3/.Truth Approximation.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/3/.Truth Approximation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/3/1/.Empirical Methods.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/3/1/.Empirical Methods.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/3/1/1/.Observation.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/3/1/1/.Observation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/3/1/2/.Experiment.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/3/1/2/.Experiment.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/3/1/3/.Data.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/3/1/3/.Data.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/3/2/.Rational Methods.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/3/2/.Rational Methods.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/3/2/1/.Reason.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/3/2/1/.Reason.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/3/2/2/.Logic.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/3/2/2/.Logic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/3/2/3/.Principles.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/3/2/3/.Principles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/3/3/.Knowledge Structure.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/3/3/.Knowledge Structure.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/3/3/1/.Belief.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/3/3/1/.Belief.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/3/3/2/.Knowledge.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/3/3/2/.Knowledge.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/3/3/3/.Wisdom.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/3/3/3/.Wisdom.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/3/3/_Opinion-Fact.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/3/3/_Opinion-Fact.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/3/_Induction-Deduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/3/_Induction-Deduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/1/_How to Know.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/3/_How to Know.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/.Moral Judgment.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/.Beauty.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/1/.Ethics.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/1/.Ethics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/1/1/.Virtue Qualities.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/1/1/.Virtue Qualities.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/1/1/1/.Character.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/1/1/1/.Character.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/1/1/2/.Integrity.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/1/1/2/.Integrity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/1/1/3/.Honor.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/1/1/3/.Honor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/1/2/.Outcome Metrics.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/1/2/.Outcome Metrics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/1/2/1/.Outcome.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/1/2/1/.Outcome.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/1/2/2/.Utility.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/1/2/2/.Utility.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/1/2/3/.Happiness.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/1/2/3/.Happiness.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/1/3/.Duty Boundaries.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/1/3/.Duty Boundaries.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/1/3/1/.Duty.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/1/3/1/.Duty.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/1/3/2/.Principle.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/1/3/2/.Principle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/1/3/3/.Law.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/1/3/3/.Law.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/1/3/_Obligation-Choice.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/1/3/_Obligation-Choice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/1/_Righteous-Wicked.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/1/_Righteous-Wicked.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/.Aesthetics.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/.Aesthetics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/1/.Beauty.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/1/.Beauty.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/1/1/.Consequentialism.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/1/1/.Consequentialism.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/1/2/.Taste.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/1/2/.Taste.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/1/2/1/.Pleasure.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/1/2/1/.Pleasure.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/1/2/2/.Attraction.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/1/2/2/.Attraction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/1/2/3/.Delight.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/1/2/3/.Delight.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/1/2/_Attractive-Repulsive.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/1/2/_Attractive-Repulsive.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/1/3/.Deontology.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/1/3/.Deontology.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/1/_Ugly-Beautiful.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/1/_Ugly-Beautiful.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/2/.Ugliness.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/2/.Ugliness.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/2/1/.Taste.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/2/1/.Taste.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/2/2/.Defense.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/2/2/.Defense.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/2/2/1/1/1/.'Visible light'.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/2/2/1/1/1/.'Visible light'.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/2/2/1/1/2/.'Invisible light'.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/2/2/1/1/2/.'Invisible light'.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/2/2/1/1/3/.'Colour spectrum'.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/2/2/1/1/3/.'Colour spectrum'.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/2/2/3/1/1/.'Chemical Elements'.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/2/2/3/1/1/.'Chemical Elements'.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/2/2/3/1/2/.'Chemical Compounds'.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/2/2/3/1/2/.'Chemical Compounds'.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/2/2/3/1/3/.'Chemical Reactions'.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/2/2/3/1/3/.'Chemical Reactions'.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/2/3/.Sublime.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/2/3/.Sublime.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/2/_Hate-Love.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/2/_Hate-Love.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/3/.Sublime.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/3/.Sublime.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/3/1/.Deductive Reasoning.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/3/1/.Deductive Reasoning.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/3/2/.Attraction.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/3/2/.Attraction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/3/2/1/.Temptation.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/3/2/1/.Temptation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/3/2/2/.Longing.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/3/2/2/.Longing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/3/2/3/.Desire.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/3/2/3/.Desire.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/3/2/_Attraction-Rejection.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/3/2/_Attraction-Rejection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/3/3/.Inductive Reasoning.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/3/3/.Inductive Reasoning.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/3/_Fear-Desire.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/3/_Fear-Desire.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/2/_Fear-Desire.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/2/_Fear-Desire.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/3/.Logical Fallacies.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/3/.Logical Fallacies.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/3/1/.Formal Errors.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/3/1/.Formal Errors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/3/1/1/.Affirming the Consequent.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/3/1/1/.Affirming the Consequent.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/3/1/2/.Denying the Antecedent.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/3/1/2/.Denying the Antecedent.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/3/1/3/.Conjunction Fallacy.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/3/1/3/.Conjunction Fallacy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/3/2/.Informal Errors.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/3/2/.Informal Errors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/3/2/1/.Ad Hominem.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/3/2/1/.Ad Hominem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/3/2/2/.Strawman.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/3/2/2/.Strawman.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/3/2/3/.Appeal to Authority.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/3/2/3/.Appeal to Authority.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/3/3/.Cognitive Skews.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/3/3/.Cognitive Skews.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/3/3/1/.Confirmation Bias.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/3/3/1/.Confirmation Bias.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/3/3/2/.Anchoring.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/3/3/2/.Anchoring.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/3/3/3/.Hindsight Bias.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/3/3/3/.Hindsight Bias.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/3/3/_Perception-Judgment.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/3/3/_Perception-Judgment.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/3/_Flawed-Valid.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/1/2/3/_Flawed-Valid.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/2/_Good-Bad.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/3/1/.Activity.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/3/1/.Activity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/3/1/1/.Work.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/3/1/1/.Work.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/3/1/2/.Play.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/3/1/2/.Play.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/3/1/3/.Hobby.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/3/1/3/.Hobby.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/3/1/_Labor-Leisure.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/3/1/_Labor-Leisure.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/3/2/.Efficiency.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/3/2/.Efficiency.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/3/2/1/.Production.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/3/2/1/.Production.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/3/2/2/.Distribution.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/3/2/2/.Distribution.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/3/2/3/.Consumption.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/3/2/3/.Consumption.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/3/2/_Fast-Slow.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/3/2/_Fast-Slow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/3/3/.Sanitation.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/3/3/.Sanitation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/3/3/1/.Water Purification.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/3/3/1/.Water Purification.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/3/3/2/.Waste Management.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/3/3/2/.Waste Management.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/3/3/3/.Air Quality.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/3/3/3/.Air Quality.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/3/3/_Clean-Contaminated.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/3/3/_Clean-Contaminated.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/3/_Right-Wrong.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2/_Moral Descriptivism-Prescriptivism.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/2/_Revaluation of all values.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/3/1/1/.Innovation.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/1/1/.Innovation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/3/1/1/1/.Idea.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/1/1/1/.Idea.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/3/1/1/2/.Prototype.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/1/1/2/.Prototype.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/3/1/1/3/.Product.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/1/1/3/.Product.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/3/1/1/_Discovery-Invention.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/1/1/_Discovery-Invention.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/3/1/2/.Judgments.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/1/2/.Judgments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/3/1/2/1/.Criteria.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/1/2/1/.Criteria.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/3/1/2/2/.Evaluation.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/1/2/2/.Evaluation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/3/1/2/3/.Conclusion.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/1/2/3/.Conclusion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/3/1/2/_Standard-Deviation.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/1/2/_Standard-Deviation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/3/1/3/.Responsibilities.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/1/3/.Responsibilities.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/3/1/3/1/.Obligation.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/1/3/1/.Obligation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/3/1/3/2/.Accountability.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/1/3/2/.Accountability.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/3/1/3/3/.Stewardship.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/1/3/3/.Stewardship.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/3/1/3/_Duty-Freedom.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/1/3/_Duty-Freedom.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/3/1/_Creator-Creation.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/3/1/1/_Creator-Creation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/.Communication.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/.Communication.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/.Linguistics.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/.Linguistics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/1/.Phonetics.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/1/.Phonetics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/1/1/.Phonetic Elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/1/1/.Phonetic Elements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/1/1/1/.Consonants.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/1/1/1/.Consonants.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/1/1/2/.Vowels.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/1/1/2/.Vowels.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/1/1/3/.Tones.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/1/1/3/.Tones.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/1/1/_Silence-Sound.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/1/1/_Silence-Sound.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/1/2/.Articulatory Properties.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/1/2/.Articulatory Properties.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/1/2/1/.Place of Articulation.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/1/2/1/.Place of Articulation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/1/2/2/.Manner of Articulation.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/1/2/2/.Manner of Articulation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/1/2/3/.Voice.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/1/2/3/.Voice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/1/3/.Acoustic Properties.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/1/3/.Acoustic Properties.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/1/3/1/.Amplitude.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/1/3/1/.Amplitude.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/1/3/2/.Frequency.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/1/3/2/.Frequency.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/1/3/3/.Timbre.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/1/3/3/.Timbre.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/1/3/_Noise-Harmony.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/1/3/_Noise-Harmony.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/1/_Articulation-Acoustics.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/1/_Articulation-Acoustics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/.Syntax.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/.Syntax.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/1/.Morphology.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/1/.Morphology.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/1/1/.Root.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/1/1/.Root.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/1/2/.Affix.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/1/2/.Affix.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/1/3/.Compound.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/1/3/.Compound.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/1/_Word-Phrase.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/1/_Word-Phrase.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/2/.Grammar.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/2/.Grammar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/2/1/.Tense.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/2/1/.Tense.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/2/2/.Aspect.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/2/2/.Aspect.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/2/3/.Mood.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/2/3/.Mood.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/2/_Rule-Variation.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/2/_Rule-Variation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/3/.Sentence Structure.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/3/.Sentence Structure.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/3/1/.Simple Sentence.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/3/1/.Simple Sentence.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/3/2/.Compound Sentence.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/3/2/.Compound Sentence.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/3/3/.Complex Sentence.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/3/3/.Complex Sentence.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/3/_Clause-Phrase.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/3/_Clause-Phrase.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/2/_Structure-Function.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/2/_Structure-Function.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/.Pragmatics.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/.Pragmatics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/1/.Speech Acts.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/1/.Speech Acts.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/1/1/.Assertive.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/1/1/.Assertive.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/1/2/.Directive.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/1/2/.Directive.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/1/3/.Commissive.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/1/3/.Commissive.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/1/_Intent-Interpretation.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/1/_Intent-Interpretation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/2/.Deixis.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/2/.Deixis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/2/1/.Person Deixis.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/2/1/.Person Deixis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/2/2/.Time Deixis.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/2/2/.Time Deixis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/2/3/.Place Deixis.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/2/3/.Place Deixis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/2/_Here-There.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/2/_Here-There.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/3/.Implicature.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/3/.Implicature.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/3/1/.Conventional.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/3/1/.Conventional.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/3/2/.Conversational.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/3/2/.Conversational.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/3/3/.Scalar.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/3/3/.Scalar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/3/_Explicit-Implicit.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/3/_Explicit-Implicit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/3/_Context-Meaning.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/3/_Context-Meaning.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/1/_Form-Function.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/1/_Form-Function.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/.Music Theory.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/.Music Theory.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/.Rhythm.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/.Rhythm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/.Beat.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/.Beat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/.Onset.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/.Onset.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/.Attack.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/.Attack.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/1/.Start.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/1/.Start.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/1/1/.Onset.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/1/1/.Onset.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/1/2/.Initiation.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/1/2/.Initiation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/1/3/.Commencement.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/1/3/.Commencement.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/1/_Alpha-Omega.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/1/_Alpha-Omega.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/2/.Rise.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/2/.Rise.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/2/1/.Increase.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/2/1/.Increase.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/2/2/.Boost.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/2/2/.Boost.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/2/3/.Amplify.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/2/3/.Amplify.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/2/_Ascend-Dive.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/2/_Ascend-Dive.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/3/.Peak.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/3/.Peak.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/3/1/.Summit.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/3/1/.Summit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/3/2/.Zenith.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/3/2/.Zenith.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/3/3/.Apex.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/3/3/.Apex.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/3/_Max-Min.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/3/_Max-Min.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/1/_Instant-Gradual.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/1/_Instant-Gradual.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/2/.Decay.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/2/.Decay.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/2/1/.Fall.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/2/1/.Fall.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/2/2/.Diminish.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/2/2/.Diminish.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/2/3/.Level.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/2/3/.Level.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/2/_Decline-Maintain.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/2/_Decline-Maintain.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/3/.Sustain.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/3/.Sustain.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/3/1/.Prolong.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/3/1/.Prolong.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/3/2/.Retain.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/3/2/.Retain.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/3/3/.Extend.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/3/3/.Extend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/3/_Grip-LetGo.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/3/_Grip-LetGo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/1/_Sharp-Soft.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/1/_Sharp-Soft.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/.Accent.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/.Accent.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/.Strong Beat.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/.Strong Beat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/1/.Downbeat.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/1/.Downbeat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/1/1/.Thud.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/1/1/.Thud.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/1/2/.Impact.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/1/2/.Impact.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/1/3/.Strike.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/1/3/.Strike.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/1/_Drop-Lift.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/1/_Drop-Lift.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/2/.Accentuation.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/2/.Accentuation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/2/1/.Emphasis.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/2/1/.Emphasis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/2/2/.Underline.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/2/2/.Underline.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/2/3/.Stress.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/2/3/.Stress.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/2/_Spotlight-Shadow.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/2/_Spotlight-Shadow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/3/.Stressor.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/3/.Stressor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/3/1/.Tension.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/3/1/.Tension.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/3/2/.Force.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/3/2/.Force.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/3/3/.Load.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/3/3/.Load.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/3/_Compress-Release.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/3/_Compress-Release.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/1/_Highlight-Background.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/1/_Highlight-Background.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/2/.Weak Beat.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/2/.Weak Beat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/2/1/.Upbeat.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/2/1/.Upbeat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/2/2/.Deemphasis.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/2/2/.Deemphasis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/2/3/.Lull.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/2/3/.Lull.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/2/_Background-Foreground.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/2/_Background-Foreground.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/3/.Offbeat.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/3/.Offbeat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/3/1/.Sync.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/3/1/.Sync.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/3/2/.Mismatch.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/3/2/.Mismatch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/3/3/.Displacement.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/3/3/.Displacement.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/3/_OutAlign-InAlign.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/3/_OutAlign-InAlign.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/2/_Emphasized-Subdued.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/2/_Emphasized-Subdued.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/3/.Syncopation.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/3/.Syncopation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/3/1/.Anticipated Beat.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/3/1/.Anticipated Beat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/3/2/.Delayed Beat.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/3/2/.Delayed Beat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/3/3/.Silent Beat.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/3/3/.Silent Beat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/3/_Preemptive-Postponed.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/3/_Preemptive-Postponed.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/1/_Predictable-Unpredictable.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/1/_Predictable-Unpredictable.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/.Meter.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/.Meter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/.Duple.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/.Duple.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/1/.March.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/1/.March.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/1/1/.Step.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/1/1/.Step.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/1/2/.Stride.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/1/2/.Stride.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/1/3/.Progression.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/1/3/.Progression.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/1/_Constant-Change.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/1/_Constant-Change.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/2/.Polka.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/2/.Polka.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/2/1/.Hop.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/2/1/.Hop.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/2/2/.Jump.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/2/2/.Jump.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/2/3/.Skip.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/2/3/.Skip.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/2/_Elevate-Ground.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/2/_Elevate-Ground.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/3/.Tango.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/3/.Tango.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/3/1/.Embrace.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/3/1/.Embrace.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/3/2/.Stride.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/3/2/.Stride.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/3/3/.Flourish.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/3/3/.Flourish.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/3/_Union-Separate.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/3/_Union-Separate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/1/_Paired-Unpaired.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/1/_Paired-Unpaired.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/2/.Triple.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/2/.Triple.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/2/1/.Waltz.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/2/1/.Waltz.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/2/2/.Mazurka.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/2/2/.Mazurka.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/2/3/.Minuet.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/2/3/.Minuet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/2/_Trio-Solo.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/2/_Trio-Solo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/3/.Complex.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/3/.Complex.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/3/1/.Five-Beat.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/3/1/.Five-Beat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/3/2/.Seven-Beat.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/3/2/.Seven-Beat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/3/3/.Irregular.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/3/3/.Irregular.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/3/_Hybrid-Pure.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/3/_Hybrid-Pure.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/2/_Even-Odd.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/2/_Even-Odd.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/3/.Tempo.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/3/.Tempo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/3/1/.Adagio.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/3/1/.Adagio.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/3/2/.Andante.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/3/2/.Andante.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/3/3/.Allegro.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/3/3/.Allegro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/3/_Lethargic-Brisk.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/3/_Lethargic-Brisk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/1/_Static-Dynamic.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/1/_Static-Dynamic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/.Harmonics.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/.Harmonics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/.Frequency.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/.Frequency.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/1/.Bass.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/1/.Bass.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/1/1/.Sub-Bass.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/1/1/.Sub-Bass.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/1/2/.Bassline.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/1/2/.Bassline.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/1/3/.Lower Midrange.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/1/3/.Lower Midrange.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/1/_Buried-Apparent.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/1/_Buried-Apparent.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/2/.Mid.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/2/.Mid.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/2/1/.Middle.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/2/1/.Middle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/2/2/.Upper Midrange.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/2/2/.Upper Midrange.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/2/3/.Lower Treble.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/2/3/.Lower Treble.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/2/_Balanced-Unbalanced.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/2/_Balanced-Unbalanced.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/3/.Treble.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/3/.Treble.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/3/1/.High Frequency.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/3/1/.High Frequency.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/3/2/.Brightness.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/3/2/.Brightness.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/3/3/.Sharpness.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/3/3/.Sharpness.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/3/_Climax-Nadir.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/3/_Climax-Nadir.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/1/_Deep-Shrill.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/1/_Deep-Shrill.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/.Series.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/.Series.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/.First Harmonic.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/.First Harmonic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/.Fundamental.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/.Fundamental.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/1/.Base.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/1/.Base.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/1/1/.Root.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/1/1/.Root.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/1/2/.Ground.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/1/2/.Ground.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/1/3/.Bedrock.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/1/3/.Bedrock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/1/_Origin-Growth.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/1/_Origin-Growth.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/2/.Foundation.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/2/.Foundation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/2/1/.Base.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/2/1/.Base.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/2/2/.Bottom.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/2/2/.Bottom.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/2/3/.Underpinning.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/2/3/.Underpinning.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/2/_Start-Build.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/2/_Start-Build.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/3/.Groundwork.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/3/.Groundwork.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/3/1/.Framework.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/3/1/.Framework.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/3/2/.Structure.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/3/2/.Structure.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/3/3/.Skeleton.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/3/3/.Skeleton.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/3/_Plan-Outcome.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/3/_Plan-Outcome.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/1/_Start-Expand.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/1/_Start-Expand.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/2/.First Overtone.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/2/.First Overtone.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/2/1/.Second Harmonic.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/2/1/.Second Harmonic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/2/2/.Deviation.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/2/2/.Deviation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/2/3/.Variation.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/2/3/.Variation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/2/_Follow-Origin.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/2/_Follow-Origin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/3/.Second Overtone.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/3/.Second Overtone.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/3/1/.Third Harmonic.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/3/1/.Third Harmonic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/3/2/.Deviant.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/3/2/.Deviant.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/3/3/.Modifier.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/3/3/.Modifier.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/3/_Overlay-Origin.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/3/_Overlay-Origin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/1/_Root-Branch.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/1/_Root-Branch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/2/.Second Harmonic.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/2/.Second Harmonic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/2/1/.First Overtone.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/2/1/.First Overtone.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/2/2/.Third Harmonic.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/2/2/.Third Harmonic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/2/3/.Fourth Harmonic.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/2/3/.Fourth Harmonic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/2/_Sheet-Underneath.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/2/_Sheet-Underneath.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/3/.Higher Harmonics.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/3/.Higher Harmonics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/3/1/.Third Overtone.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/3/1/.Third Overtone.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/3/2/.Fourth Overtone.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/3/2/.Fourth Overtone.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/3/3/.Fifth Overtone.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/3/3/.Fifth Overtone.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/3/_Principal-Auxiliary.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/3/_Principal-Auxiliary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/2/_Base-Overtones.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/2/_Base-Overtones.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/.Timbre.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/.Timbre.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/.Sinewave.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/.Sinewave.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/.Simple Wave.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/.Simple Wave.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/1/.Steady State.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/1/.Steady State.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/1/1/.Unchanging.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/1/1/.Unchanging.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/1/2/.Constant.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/1/2/.Constant.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/1/3/.Fixed.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/1/3/.Fixed.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/1/_Same-Change.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/1/_Same-Change.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/2/.Plain.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/2/.Plain.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/2/1/.Unembellished.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/2/1/.Unembellished.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/2/2/.Basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/2/2/.Basic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/2/3/.Simplistic.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/2/3/.Simplistic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/2/_Naked-Decorated.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/2/_Naked-Decorated.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/3/.Homogeneous.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/3/.Homogeneous.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/3/1/.Identical.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/3/1/.Identical.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/3/2/.Consistent.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/3/2/.Consistent.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/3/3/.Monolithic.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/3/3/.Monolithic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/3/_Alike-Different.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/3/_Alike-Different.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/1/_Same-Vary.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/1/_Same-Vary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/2/.Fundamental Wave.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/2/.Fundamental Wave.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/2/1/.Core.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/2/1/.Core.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/2/2/.Central.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/2/2/.Central.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/2/3/.Prime.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/2/3/.Prime.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/2/_Main-Secondary.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/2/_Main-Secondary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/3/.Undistorted Wave.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/3/.Undistorted Wave.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/3/1/.Clean.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/3/1/.Clean.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/3/2/.Pure.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/3/2/.Pure.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/3/3/.Transparent.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/3/3/.Transparent.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/3/_Distinct-Blur.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/3/_Distinct-Blur.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/1/_Clean-Blended.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/1/_Clean-Blended.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/.Sawtooth.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/.Sawtooth.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/1/.Jagged Wave.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/1/.Jagged Wave.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/1/1/.Rough.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/1/1/.Rough.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/1/2/.Irregular.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/1/2/.Irregular.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/1/3/.Zigzag.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/1/3/.Zigzag.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/1/_Rugged-Smooth.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/1/_Rugged-Smooth.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/2/.Buzzy Wave.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/2/.Buzzy Wave.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/2/1/.Vibration.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/2/1/.Vibration.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/2/2/.Pulse.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/2/2/.Pulse.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/2/3/.Echo.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/2/3/.Echo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/2/_Ring-Silent.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/2/_Ring-Silent.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/3/.Harmonic-rich Wave.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/3/.Harmonic-rich Wave.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/3/1/.Dense.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/3/1/.Dense.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/3/2/.Layered.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/3/2/.Layered.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/3/3/.Thick.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/3/3/.Thick.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/3/_Saturated-Vacant.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/3/_Saturated-Vacant.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/2/_Edgy-Sleek.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/2/_Edgy-Sleek.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/3/.Squarewave.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/3/.Squarewave.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/3/1/.Duty Cycle.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/3/1/.Duty Cycle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/3/2/.Width Pulse.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/3/2/.Width Pulse.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/3/3/.Harmonic Wave.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/3/3/.Harmonic Wave.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/3/_Symmetric-Asymmetric.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/3/_Symmetric-Asymmetric.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/3/_Clean-Distorted.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/3/_Clean-Distorted.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/2/_Simple-Rich.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/2/_Simple-Rich.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/.Timing.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/.Timing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/.Duration.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/.Duration.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/1/.Instant.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/1/.Instant.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/1/1/.Second.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/1/1/.Second.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/1/1/1/.Milliseconds.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/1/1/1/.Milliseconds.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/1/1/1/_Brief-Extended.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/1/1/1/_Brief-Extended.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/1/1/2/.Moments.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/1/1/2/.Moments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/1/1/2/_Glimpse-Span.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/1/1/2/_Glimpse-Span.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/1/1/_Tick-Tock.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/1/1/_Tick-Tock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/1/2/.Minute.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/1/2/.Minute.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/1/2/1/.Countdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/1/2/1/.Countdown.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/1/2/1/_Start-Stop.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/1/2/1/_Start-Stop.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/1/2/2/.Timer.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/1/2/2/.Timer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/1/2/2/_Set-Elapsed.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/1/2/2/_Set-Elapsed.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/1/2/_Wait-Proceed.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/1/2/_Wait-Proceed.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/1/_Moment-Decade.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/1/_Moment-Decade.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/2/.Eternity.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/2/.Eternity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/2/1/.Decade.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/2/1/.Decade.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/2/1/1/.1970s.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/2/1/1/.1970s.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/2/1/1/_Retro-Modern.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/2/1/1/_Retro-Modern.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/2/1/2/.1980s.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/2/1/2/.1980s.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/2/1/2/_Classic-Contemporary.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/2/1/2/_Classic-Contemporary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/2/1/_Past-Future.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/2/1/_Past-Future.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/2/2/.Century.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/2/2/.Century.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/2/2/1/.20th.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/2/2/1/.20th.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/2/2/1/_Industrial-Digital.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/2/2/1/_Industrial-Digital.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/2/2/2/.21st.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/2/2/2/.21st.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/2/2/2/_Internet-AI.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/2/2/2/_Internet-AI.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/2/2/_Aeon-Age.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/2/2/_Aeon-Age.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/2/_Ephemeral-Endless.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/2/_Ephemeral-Endless.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/1/_Short-Long.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/1/_Short-Long.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/2/.Chronology.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/2/.Chronology.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/2/1/.History.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/2/1/.History.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/2/1/1/.Epoch.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/2/1/1/.Epoch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/2/1/1/_Birth-End.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/2/1/1/_Birth-End.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/2/1/2/.Era.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/2/1/2/.Era.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/2/1/2/_Beginning-Completion.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/2/1/2/_Beginning-Completion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/2/1/_Yesterday-Tomorrow.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/2/1/_Yesterday-Tomorrow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/2/2/.Forecast.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/2/2/.Forecast.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/2/2/1/.Weather.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/2/2/1/.Weather.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/2/2/1/_Cloud-Sun.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/2/2/1/_Cloud-Sun.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/2/2/2/.Trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/2/2/2/.Trend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/2/2/2/_Rise-Fall.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/2/2/2/_Rise-Fall.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/2/2/_Prediction-Reality.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/2/2/_Prediction-Reality.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/2/_Past-Future.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/2/_Past-Future.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/.Sync.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/.Sync.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/1/.Alignment.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/1/.Alignment.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/1/1/.Melody.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/1/1/.Melody.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/1/1/1/.Chord.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/1/1/1/.Chord.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/1/1/1/_Harmony-Disharmony.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/1/1/1/_Harmony-Disharmony.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/1/1/2/.Scale.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/1/1/2/.Scale.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/1/1/2/_Ascending-Descending.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/1/1/2/_Ascending-Descending.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/1/1/_Tune-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/1/1/_Tune-Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/1/2/.Rhythm.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/1/2/.Rhythm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/1/2/1/.Pulse.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/1/2/1/.Pulse.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/1/2/1/_Steady-Vary.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/1/2/1/_Steady-Vary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/1/2/2/.Metronome.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/1/2/2/.Metronome.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/1/2/2/_Regular-Irregular.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/1/2/2/_Regular-Irregular.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/1/2/_Beat-Pause.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/1/2/_Beat-Pause.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/1/_Harmony-Discord.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/1/_Harmony-Discord.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/2/.Lag.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/2/.Lag.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/2/1/.Delay.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/2/1/.Delay.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/2/1/_Wait-Rush.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/2/1/_Wait-Rush.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/2/2/.Haste.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/2/2/.Haste.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/2/2/_Speedy-Slow.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/2/2/_Speedy-Slow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/2/_Before-After.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/2/_Before-After.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/3/_Synchronized-Asynchronous.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/3/_Synchronized-Asynchronous.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/3/_Predictability-Unpredictability.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/3/_Predictability-Unpredictability.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/2/_Tension-Release.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/2/_Tension-Release.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/.Social Relation.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/.Social Relation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/1/.Sociology.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/1/.Sociology.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/1/1/.Friendship.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/1/1/.Friendship.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/1/2/.Competitive.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/1/2/.Competitive.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/1/3/.Cooperative.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/1/3/.Cooperative.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/1/_Individual-Society.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/1/_Individual-Society.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/2/.Social Structures.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/2/.Social Structures.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/2/1/.Stratification.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/2/1/.Stratification.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/2/1/1/.Class.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/2/1/1/.Class.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/2/1/2/.Status.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/2/1/2/.Status.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/2/1/3/.Power.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/2/1/3/.Power.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/2/2/.Community.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/2/2/.Community.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/2/2/2/.Social Movements.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/2/2/2/.Social Movements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/2/3/.Society.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/2/3/.Society.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/2/3/3/.Cultural Patterns.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/2/3/3/.Cultural Patterns.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/2/_Inequality-Equality.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/2/_Inequality-Equality.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/.Dialogue.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/.Dialogue.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/.Conversation.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/.Conversation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/1/.Chat.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/1/.Chat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/1/1/.Greeting.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/1/1/.Greeting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/1/1/1/.Salute.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/1/1/1/.Salute.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/1/1/1/_Formal-Casual.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/1/1/1/_Formal-Casual.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/1/1/2/.Wave.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/1/1/2/.Wave.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/1/1/2/_Visible-Invisible.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/1/1/2/_Visible-Invisible.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/1/1/_Hello-Bye.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/1/1/_Hello-Bye.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/1/2/.Farewell.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/1/2/.Farewell.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/1/2/1/.Goodbye.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/1/2/1/.Goodbye.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/1/2/1/_Temporary-Permanent.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/1/2/1/_Temporary-Permanent.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/1/2/2/.Adieu.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/1/2/2/.Adieu.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/1/2/2/_Definite-Indefinite.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/1/2/2/_Definite-Indefinite.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/1/2/_Start-End.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/1/2/_Start-End.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/1/_Casual-Formal.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/1/_Casual-Formal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/2/.Interview.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/2/.Interview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/2/1/.Query.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/2/1/.Query.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/2/1/1/.Inquiry.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/2/1/1/.Inquiry.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/2/1/1/_General-Specific.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/2/1/1/_General-Specific.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/2/1/2/.Prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/2/1/2/.Prompt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/2/1/2/_Lead-Direct.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/2/1/2/_Lead-Direct.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/2/1/_Ask-Tell.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/2/1/_Ask-Tell.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/2/2/.Reply.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/2/2/.Reply.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/2/2/1/.Answer.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/2/2/1/.Answer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/2/2/1/_Brief-Detailed.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/2/2/1/_Brief-Detailed.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/2/2/2/.Explanation.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/2/2/2/.Explanation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/2/2/2/_Surface-Depth.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/2/2/2/_Surface-Depth.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/2/2/_Respond-Elaborate.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/2/2/_Respond-Elaborate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/2/_Question-Answer.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/2/_Question-Answer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/1/_Spontaneity-Structure.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/1/_Spontaneity-Structure.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/2/.Monologue.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/2/.Monologue.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/2/1/.Soliloquy.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/2/1/.Soliloquy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/2/1/1/.Thought.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/2/1/1/.Thought.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/2/1/1/_Silent-Vocal.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/2/1/1/_Silent-Vocal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/2/1/2/.Speech.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/2/1/2/.Speech.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/2/1/2/_Public-Private.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/2/1/2/_Public-Private.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/2/1/_Inner-Outer.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/2/1/_Inner-Outer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/2/2/.Narrative.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/2/2/.Narrative.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/2/2/1/.Tale.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/2/2/1/.Tale.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/2/2/1/_Fiction-Reality.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/2/2/1/_Fiction-Reality.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/2/2/2/.Exposition.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/2/2/2/.Exposition.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/2/2/2/_Breakdown-Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/2/2/2/_Breakdown-Overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/2/2/_Story-Analysis.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/2/2/_Story-Analysis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/2/_Self-Other.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/2/_Self-Other.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/.Debate.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/.Debate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/1/.Discussion.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/1/.Discussion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/1/1/.Agreement.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/1/1/.Agreement.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/1/1/1/.Consensus.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/1/1/1/.Consensus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/1/1/1/_Together-Apart.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/1/1/1/_Together-Apart.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/1/1/2/.Unison.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/1/1/2/.Unison.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/1/1/2/_One-Many.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/1/1/2/_One-Many.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/1/1/_Yes-No.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/1/1/_Yes-No.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/1/2/.Conflict.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/1/2/.Conflict.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/1/2/1/.Dispute.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/1/2/1/.Dispute.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/1/2/1/_Quarrel-Settle.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/1/2/1/_Quarrel-Settle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/1/2/2/.Contest.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/1/2/2/.Contest.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/1/2/2/_Compete-Cooperate.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/1/2/2/_Compete-Cooperate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/1/2/_For-Against.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/1/2/_For-Against.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/1/_Understanding-Misunderstanding.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/1/_Understanding-Misunderstanding.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/2/.Argument.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/2/.Argument.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/2/1/.Support.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/2/1/.Support.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/2/1/_Evidence-Claim.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/2/1/_Evidence-Claim.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/2/2/.Opposition.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/2/2/.Opposition.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/2/2/_Rebuttal-Counter.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/2/2/_Rebuttal-Counter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/2/_Pro-Con.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/2/_Pro-Con.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/3/_Agree-Disagree.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/3/_Agree-Disagree.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/3/_Speaker-Listener.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/3/_Speaker-Listener.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/3/_Conflict-Resolution.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/3/_Conflict-Resolution.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/1/_Verbal-Nonverbal.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/1/1/_Verbal-Nonverbal.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +573,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="2SkmgCTkIxNFIPP3063SHNluBKr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,6 +586,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/qwerty/dialectics",
     "settings.editor.selected.configurable": "preferences.fileTypes",
     "vue.rearranger.settings.migration": "true"
   }
@@ -36,6 +601,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689699066836</updated>
       <workItem from="1689699069092" duration="136000" />
+      <workItem from="1692006250951" duration="31000" />
     </task>
     <servers />
   </component>
