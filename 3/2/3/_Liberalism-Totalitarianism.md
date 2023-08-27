@@ -1,1 +1,2 @@
-"Liberalism-Totalitarianism"
+
+The antinomic mutual relation of chapter 323 is defined by the clash between liberalism and totalitarianism. Liberalism as a political ideology cherishes individual liberty, while totalitarianism suppresses individual freedom in favor of an absolute state control. These two extremes raise questions about the scope and limits of governmental authority, the balance between individual rights and social order, and the nature of freedom itself. This inherent contradiction forms the centre of the political discourse in the modern world.
