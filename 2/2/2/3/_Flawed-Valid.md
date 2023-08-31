@@ -1,1 +1,2 @@
-Flawed-Valid
+
+Flawed-Valid is the antinomic mutual relation of formal errors, informal errors, and cognitive skews. It represents the distinction between incorrect (flawed) and correct (valid) reasoning, and the struggles we experience in turning our flawed understandings into valid judgments. It captures the essence of human cognitive processes their inherent imperfections, and their striving towards logical validity.
