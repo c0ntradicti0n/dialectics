@@ -1,1 +1,3 @@
-"Functional-Aesthetic"
+
+The relationship between Functional and Aesthetic properties ties all spacecraft systems together. While Functionality focuses on systems performing the tasks they are designed for, the aesthetic aspect considers how systems are arranged and interact with each other, their human operators, and their environment. This creates a harmony where both aspects are equally important in the design and operation of a spacecraft.
+```
