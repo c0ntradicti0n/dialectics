@@ -1,1 +1,2 @@
-Abstract-Concrete
+
+Abstract-Concrete relationship unfolds the dialectics of thought and memory within the role of judgment. The abstract nature of thought and the concrete experiences within memory synthesize into the balanced process of judgment. This dynamic illustrates the progression from abstract thinking to concrete learning and understanding, empowering judgment.
