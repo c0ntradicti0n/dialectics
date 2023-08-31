@@ -1,1 +1,2 @@
-Aware-Unaware
+
+Awareness and unawareness are antinomic concepts that define the conscious recognition of existing stimuli and their interpretation (awareness), and the lack or absence of such recognition and interpretation (unawareness). They highlight the interconnectedness of perception, cognition, and intuition. Without awareness, our perceptual frameworks would not be activated, our cognitive mechanisms would have no input to process, and our intuition would lack a substrate on which to operate. Conversely, without these processes, our awareness would have no means of interpreting or understanding the input received from our environment.
