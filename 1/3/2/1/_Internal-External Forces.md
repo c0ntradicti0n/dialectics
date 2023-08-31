@@ -1,1 +1,2 @@
-Internal-External Forces
+
+The trifecta of continental drift, seafloor spreading, and convergent boundaries give rise to the idea of the Earth being shaped by both internal and external forces. Internal forces such as plate tectonics build landforms, while external forces like weathering and erosion sculpt them. This interplay paints a comprehensive picture of Earth's geodynamics.
