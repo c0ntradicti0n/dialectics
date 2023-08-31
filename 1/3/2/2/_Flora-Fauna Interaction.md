@@ -1,1 +1,2 @@
-Flora-Fauna Interaction
+
+Polyps, Zooxanthellae, and reef degradation form the trajectory that highlights the critical interdependency of Flora-Fauna Interaction within marine life. Polyps and Zooxanthellae, in a symbiotic relationship, depict an intricate balance, aiding each other for survival. Yet, the same relationship underscores the vulnerability, as any disturbance to this interaction can lead to a fundamental shift in the wider ecosystem, seen in instances of reef degradation.
