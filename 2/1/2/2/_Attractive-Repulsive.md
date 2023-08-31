@@ -1,1 +1,2 @@
-Attractive-Repulsive
+
+The antinomic relationship in this dialectical unit is Attractive-Repulsive. It embodies the subjective nature of sensory perception, where certain stimuli may be perceived as desirable (attractive) or undesirable (repulsive) based on personal interpretation, past experience, and biological instincts. Ultimately, this intrinsic polarity in sensory perception underpins the aesthetics that govern human life.
