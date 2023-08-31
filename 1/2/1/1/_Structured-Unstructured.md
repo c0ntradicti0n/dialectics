@@ -1,1 +1,3 @@
-"Structured-Unstructured"
+
+The dialectical relationship of structured and unstructured reflects the synthesis of spatial order and chaos, of confinement and freedom. Structured space adheres to systemic organization and regularity, establishing places, locales, regions, while the unstructured signifies the vast, infinite and freely mutable quality of space. The interplay between the two constitutes the creation of everywhere—an amalgamation of manifold yet distinct places scattered across the sweeping, unbounded spatial continuum.  
+```
