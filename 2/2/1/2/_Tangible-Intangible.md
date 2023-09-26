@@ -1,3 +1,3 @@
 
-The unification of efficacy and satisfaction in impact embodies the reconciliation of the tangible and intangible aspects of success. Impact recognizes both the physical accomplishments and the intrinsic rewards, acknowledging the dialectical tension between them. This more comprehensive understanding of effects advances decision making by balancing antinomic elements.  
-```
+[The unification of](1/3/1/2/1/1/3/3/.Unification) [efficacy and satisfaction](2/2/1/2/1/.Efficacy) [in impact embodies](2/2/1/2/3/.Impact) [the reconciliation of](3/1/1/1/1/1/2/1/3/_Conflict-Resolution) [the tangible and](1/1/3/1/1/2/1/.Tangible) [intangible aspects of](1/1/3/1/1/2/2/.Intangible) success. Impact recognizes [both the physical](1/1/3/1/1/2/1/1/.Physical) [accomplishments and the](2/2/1/2/_Tangible-Intangible) intrinsic rewards, acknowledging [the dialectical tension](1/1/2/1/.Existential%20Dialectics) between them. This [more comprehensive understanding](2/2/3/2/2/2/.Understanding%20and%20Explanation) [of effects advances](1/1/3/3/3/3/3/.Effect) [decision making by](2/1/3/2/1/3/.Decision) balancing antinomic elements.
+[```](3/1/3/1/1/1/2/_One-Handed-Two-Handed)
