@@ -1,1 +1,3 @@
-Particle-Wave
+
+Particle-wave duality, emanating from quantum mechanics, contests the conventional perception of physical reality by suggesting that all particles also exhibit wave-like characteristics, and vice versa. This shifts the paradigm from an 'either-or' to 'both-and' understanding of matter's nature, incorporating ontology and phenomenology in a way that is both enriching and puzzling, captivating the beauty and mystery of our universe.
+```
