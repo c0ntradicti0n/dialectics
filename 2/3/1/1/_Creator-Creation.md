@@ -1,1 +1,3 @@
-"Creator-Creation"
+
+The relationship between the creator and the creation is marked by a dynamic interplay of expression, reflection, and identity. Creation is an extension of the creator, reflecting their views, experiences, and craftsmanship. Yet creation also unfolds and evolves independently, interacting with audiences and cultural contexts in unexpected ways. In the words of Marcel Duchamp, "The creative act is not performed by the artist alone; the spectator brings the work in contact with the external world by deciphering and interpreting its inner qualifications and thus adds his contribution to the creative act."
+
