@@ -1,3 +1,3 @@
 
-[The antinomic relation](2/2/2/1/_Organic-Inorganic) [of this unit](3/1/1/2/2/2/2/2/3/2/1/.Unit) is Affection-Aversion, mirroring [the constant interplay](3/1/3/2/1/.Principles%20of%20Games) [between love (affection)](2/1/2/1/1/.Love) and hate (aversion). [This dialectic captures](1/1/2/1/.Existential%20Dialectics) [the spectrum of](2/2/2/2/2/2/1/1/3/.'Colour%20spectrum') human emotion, framing [each individual's intricate](2/2/2/_Function-Form) narrative, thereby weaving [the tapestry of](3/1/3/3/3/3/2/.Cultural%20Heritage) [human interactions and](2/1/1/3/3/.Social%20Interactions) shaping society's dynamics.
+The antinomic relation of this unit is Affection-Aversion, mirroring the constant interplay between love (affection) and hate (aversion). This dialectic captures the spectrum of human emotion, framing each individual's intricate narrative, thereby weaving the tapestry of human interactions and shaping society's dynamics.
 

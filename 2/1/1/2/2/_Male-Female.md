@@ -1,4 +1,4 @@
 
 
-[The concept of](2/1/3/2/2/2/2/.Concept) [gender refers to](2/1/1/2/2/_Male-Female) [the socially constructed](3/1/2/2/3/.Social) roles, behaviors, and [expectations associated with](2/1/3/3/3/1/.Expectation) [being male or](2/1/1/2/2/3/.Sexual%20Identity) female. It goes [beyond biological sex](1/3/1/3/3/2/3/.Sexual%20Selection) [and encompasses the](1/2/1/1/3/_All-encompassing) [cultural and societal](3/3/.Cultural%20Embodiment) [norms and values](1/1/3/1/1/3/2/2/2/2/.Norm%20Properties) [attributed to each](3/2/3/1/2/1/_Ownership-Shared) gender. The dynamic [interplay between male](2/1/1/2/2/2/2/.Sexual%20Activities) [and female roles](2/1/1/2/2/_Male-Female) [shapes social dynamics](2/1/1/3/3/.Social%20Interactions) [and power structures](2/1/1/3/2/2/2/.Built%20Structures) within societies.
+The concept of gender refers to the socially constructed roles, behaviors, and expectations associated with being male or female. It goes beyond biological sex and encompasses the cultural and societal norms and values attributed to each gender. The dynamic interplay between male and female roles shapes social dynamics and power structures within societies.
 
