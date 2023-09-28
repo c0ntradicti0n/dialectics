@@ -1,1 +1,2 @@
-"Manual-Automated"
+
+The antinomic relationship of manual and automated encapsulates the dialectical progression within the evolution of tools. The manual stands for direct, physical exertion, while the automated denotes mediated technology driven actions. This tension illustrates the continual transition from direct human agency to delegation to our creations.
