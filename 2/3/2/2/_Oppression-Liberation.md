@@ -1,1 +1,3 @@
-"Oppression-Liberation"
+
+Oppression-Liberation represents the fundamental tension in societal revolutions. It captures the struggle of oppressed individuals and groups seeking to liberate themselves from tyrannical regimes or systems. This dialectical relationship lays bare the power dynamics of revolt and revolution, encapsulating the human desire for freedom, equality, and justice. As stated by Nelson Mandela, "Overcoming poverty is not a gesture of charity, but an act of justice. It is the protection of a fundamental human right, the right to dignity and a decent life."
+```
