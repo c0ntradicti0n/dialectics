@@ -1,1 +1,2 @@
-"Position-Relocation"
+
+Position-relocation defines the dialectic relationship resulting from the interplay of space's elementary components. Acting as the antinomic mutual relation, it emphasizes the paradoxical state of being fixed in space, yet subject to continual movement, echoing the perpetual flux within static conditions.
