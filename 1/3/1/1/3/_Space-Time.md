@@ -1,1 +1,3 @@
-Space-Time
+
+Space-time, an integrated four-dimensional framework, couples three spatial dimensions with one temporal. Implied by relativity, space and time lose absolute meaning, intermingling and exhibiting differing manifestations contingent upon an observer's relative velocity or gravitational field. Establishing this fascinating incongruity between classical intuition and modern physics, merging space and time inseparably, fundamentally reshaped our understanding of the universe. As physicist Kip Thorne commented, "Einstein's gravitational waves weave the fabric of space and time around us and stretch the limits of human understanding."
+
