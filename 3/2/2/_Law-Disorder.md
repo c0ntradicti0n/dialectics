@@ -1,1 +1,2 @@
-Law-Disorder
+
+Law and disorder represent the opposing pulls in the dance of justice. Laws strive to institutionalize order and prevent chaos, yet the very existence of laws acknowledges the possible descent into disorder. This dynamic tension hints at the fragility of civil society and the inherent challenge of sustaining a just and orderly community.
