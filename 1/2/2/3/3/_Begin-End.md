@@ -1,1 +1,2 @@
-"Begin-End"
+
+The dialectic relationship of event, sequence and cycle brings forth the fundamental principle of "Begin-End". Each event embodies a beginning and an end, yet when sewn together into sequences and cycles, these beginnings and ends become interlinked in a continuous flow where every end heralds the start of something new, and every beginning naturally concludes to an end.
