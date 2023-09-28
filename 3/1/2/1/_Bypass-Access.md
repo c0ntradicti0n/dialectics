@@ -1,1 +1,2 @@
-Bypass-Access
+
+The continuum of bypass and access directs the approach to system interventions. Bypassing indicates evading or concealing an intervention to preserve system integrity and avoid detection. Access, however, focuses on gaining control and influence over a system. These tactics are not mutually exclusive, instead, the dialectical tension between the two shapes the landscape of ethical hacking and security testing.
