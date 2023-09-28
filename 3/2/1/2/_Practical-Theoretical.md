@@ -1,1 +1,3 @@
-"Practical-Theoretical"
+
+The pivot concept in the dialectic relationship between Experiential Learning, Lecture, and Simulation is Practical-Theoretical Understanding. It mediates the relationship between practical experiences and theoretical knowledge. Practical-Theoretical cognition acknowledges that both are not only intertwined but also reciprocal, where theory informs practice, and practice, in turn, informs theory.
+```
