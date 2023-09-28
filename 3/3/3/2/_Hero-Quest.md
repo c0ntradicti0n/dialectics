@@ -1,1 +1,3 @@
-Hero-Quest
+
+Every epic, whether mythological or historical, revolves around a hero's quest. This quest is often depicted as a journey, embodying the human experience of trials, tribulations, growth, and ultimately, a pursuit of a higher truth or purpose. This universal concept is reflected in numerous narratives across different cultures and times, testifying to its intrinsic link to human nature and our innate desire for growth, understanding, and accomplishment.
+```
