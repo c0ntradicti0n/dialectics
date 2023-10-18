@@ -1,1 +1,0 @@
-Changing Magnetic-Electric Field

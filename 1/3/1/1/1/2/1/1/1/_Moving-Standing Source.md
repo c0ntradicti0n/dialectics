@@ -1,1 +1,0 @@
-Moving-Standing Source

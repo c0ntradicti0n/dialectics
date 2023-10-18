@@ -1,3 +1,0 @@
-
-[The antinomic mutual](2/2/2/1/_Organic-Inorganic) relation within this [dialectic is the](1/1/2/1/.Existential%20Dialectics) [ongoing scientific friction](2/3/2/3/1/.Sciences) surrounding a Single [versus Multiple Origin](1/2/1/3/2/2/_Origin-Destination) of life. This [contentious debate extends](3/2/1/2/2/2/2/.Debate) beyond mere academic curiosity, interlacing with cultural, religious, and philosophical implications. The [resolution of this](1/2/1/3/1/3/1/3/3/.Resolution) [contradiction seeks an](3/3/2/1/2/2/_Irony-Contradiction) equilibrium, acknowledging the probability of parallel or convergent evolution, [thus harmonizing the](2/1/3/1/2/3/.Harmony) [antinomy of singular](1/1/2/1/_Negation-of-Negation) and plural beginnings.
-

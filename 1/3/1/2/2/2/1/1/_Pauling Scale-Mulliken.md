@@ -1,1 +1,0 @@
-"Pauling Scale-Mulliken"

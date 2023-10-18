@@ -1,1 +1,0 @@
-Isothermal-Adiabatic Processes
