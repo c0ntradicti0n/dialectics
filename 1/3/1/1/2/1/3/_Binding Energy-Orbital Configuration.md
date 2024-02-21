@@ -1,0 +1,1 @@
+Binding Energy-Orbital Configuration
