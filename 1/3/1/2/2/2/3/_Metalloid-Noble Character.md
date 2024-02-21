@@ -1,0 +1,1 @@
+Metalloid-Noble Character
