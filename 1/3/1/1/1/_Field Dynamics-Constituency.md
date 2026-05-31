@@ -1,1 +1,0 @@
-"Field Dynamics-Constituency"
